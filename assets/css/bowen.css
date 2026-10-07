@@ -1,0 +1,109 @@
+/* Personal-site presentation; al-folio remains the theme runtime. */
+.bw-hero {
+  position: relative;
+  overflow: hidden;
+  background: #101a2b;
+  color: #edf4ff;
+  border: 1px solid #2d4264;
+  border-radius: 14px;
+  padding: 36px;
+  margin: 24px 0 30px;
+  background-image:
+    radial-gradient(circle at 81% 22%, #b5ddff 0 1px, transparent 2px), radial-gradient(circle at 65% 72%, #92b7dc 0 1px, transparent 2px),
+    radial-gradient(circle at 93% 63%, #b5ddff 0 1px, transparent 2px), radial-gradient(ellipse at 90% 0%, #284770 0, transparent 65%);
+}
+.bw-hero .bw-label {
+  font-size: 0.72rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: #a9c9ed;
+  margin-bottom: 16px;
+}
+.bw-hero h2 {
+  color: #fff !important;
+  font-size: 2rem;
+  line-height: 1.25;
+  max-width: 620px;
+  font-weight: 600;
+  letter-spacing: -0.035em;
+  margin: 0 0 18px;
+}
+.bw-hero p {
+  color: #cfdbed;
+  max-width: 640px;
+  margin: 0;
+}
+.bw-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 20px 0 0;
+}
+.bw-links a {
+  display: inline-block;
+  color: #fff !important;
+  border: 1px solid #7791ae;
+  border-radius: 6px;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+.bw-links a:hover {
+  background: #284770;
+}
+.bw-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+  margin: 20px 0 30px;
+}
+.bw-card {
+  border: 1px solid var(--global-divider-color, #ccc);
+  border-radius: 10px;
+  padding: 20px;
+}
+.bw-card h3 {
+  font-size: 1.07rem;
+  font-weight: 600;
+  margin: 0 0 10px;
+}
+.bw-card p {
+  font-size: 0.94rem;
+  margin: 0;
+}
+.bw-kicker {
+  font-size: 0.74rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--global-theme-color);
+  margin-bottom: 10px;
+}
+.bw-project {
+  padding: 24px 0;
+  border-bottom: 1px solid var(--global-divider-color, #ccc);
+}
+.bw-project h2 {
+  font-size: 1.4rem;
+}
+.bw-media {
+  width: 100%;
+  max-height: 440px;
+  object-fit: contain;
+  border-radius: 8px;
+  background: #101a2b;
+  margin: 14px 0;
+}
+.bw-note {
+  font-size: 0.85rem;
+  opacity: 0.75;
+}
+@media (max-width: 640px) {
+  .bw-grid {
+    grid-template-columns: 1fr;
+  }
+  .bw-hero {
+    padding: 25px;
+  }
+  .bw-hero h2 {
+    font-size: 1.65rem;
+  }
+}

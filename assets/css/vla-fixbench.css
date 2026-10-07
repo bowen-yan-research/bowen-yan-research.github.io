@@ -1,0 +1,8 @@
+.vfix-figure { margin: 2rem 0; }
+.vfix-figure img { display: block; width: 100%; height: auto; background: white; }
+.vfix-figure figcaption { margin-top: .65rem; font-size: .86rem; line-height: 1.5; color: var(--global-text-color-light, #666); }
+.vfix-sequence { max-width: 720px; }
+.vfix-table { overflow-x: auto; margin: 1.25rem 0; }
+.vfix-table table { width: 100%; border-collapse: collapse; }
+.vfix-table th, .vfix-table td { padding: .8rem; border-bottom: 1px solid var(--global-divider-color, #ddd); vertical-align: top; }
+.vfix-table th:last-child, .vfix-table td:last-child { text-align: right; min-width: 90px; }
