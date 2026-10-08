@@ -16,4 +16,4 @@ My recent work studies VLM-guided recovery from VLA manipulation faults, explici
 
 My earlier work on soft robots and optical sensing involved mechanical design, custom actuators, sensing hardware, finite element analysis, and experiments. This background continues to shape how I think about the relationship between perception, a robot's body, and its actions.
 
-For project demonstrations, visit my [research page]({{ '/projects/' | relative_url }}). The [publication list]({{ '/publications/' | relative_url }}) distinguishes accepted work from manuscripts under review or revision.
+For project demonstrations, visit my [research page]({{ '/projects/' | relative_url }}). The [publication list]({{ '/publications/' | relative_url }}) lists accepted work.

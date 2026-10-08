@@ -29,4 +29,4 @@ I received my M.S. in Electrical Engineering (Robotics & Intelligent Systems) fr
 
 My work connects intelligent decision-making with hands-on robotic systems—from diagnosing manipulation failures and repairing physical constraints to building soft robots and optical sensing hardware. See my [research projects]({{ '/projects/' | relative_url }}) and [publications]({{ '/publications/' | relative_url }}) for more details.
 
-Outside research, I enjoy science fiction, making music, and basketball. For research discussions and collaboration, please contact me at [y435088663@gmail.com](mailto:y435088663@gmail.com). My [CV]({{ '/assets/pdf/Bowen_Yan_CV.pdf' | relative_url }}) is available as a PDF.
+Outside research, I enjoy science fiction, making music, and basketball. For research discussions and collaboration, please contact me at [y435088663@gmail.com](mailto:y435088663@gmail.com). My [CV]({{ '/cv/' | relative_url }}) is available online.

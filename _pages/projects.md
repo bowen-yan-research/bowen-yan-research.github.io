@@ -18,17 +18,9 @@ How can a robot understand why an action failed—and decide how to recover? My 
 </div>
 
 <div class="bw-project" markdown="1">
-## Reasoning about constraints and communicating actions
-
-**TextMani** studies how language models can translate tasks into explicit physical constraints, diagnose failures during execution, and repair the relevant part of a plan. **ActBox** investigates visual boxes, image grids, and textual coordinates as ways to communicate actions to vision-language models.
-
-TextMani is under review at ICLR 2027. ActBox is under review at ICASSP 2027.
-</div>
-
-<div class="bw-project" markdown="1">
 ## Soft robots and optical sensing
 
-My earlier work spans soft robotic mechanisms, custom actuators, optical sensing hardware, finite element analysis, and system-level experiments. **Puff-Pssss** brings these components together for adaptive pipe inspection; the manuscript is under major revision at IEEE Robotics and Automation Letters.
+My earlier work spans soft robotic mechanisms, custom actuators, optical sensing hardware, finite element analysis, and system-level experiments.
 
 I have also explored fiber-optic sensing, shape-sensing grippers, soft sensor simulation, and the integration of tactile information with robot learning.
 

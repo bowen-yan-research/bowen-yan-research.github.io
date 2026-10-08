@@ -7,8 +7,6 @@ nav_order: 3
 description: Education, research appointments, and interests.
 ---
 
-[Download my CV (PDF)]({{ '/assets/pdf/Bowen_Yan_CV.pdf' | relative_url }})
-
 ## Research appointments
 
 **Shanghai Artificial Intelligence Laboratory** · Researcher<br>
@@ -29,9 +27,9 @@ description: Education, research appointments, and interests.
 
 Reasoning and agents · Failure-driven self-improvement · Embodied AI
 
-## Publications & manuscripts
+## Publications
 
-See the [publication list]({{ '/publications/' | relative_url }}) for accepted work and manuscripts, with their current status.
+See the [publication list]({{ '/publications/' | relative_url }}) for accepted work.
 
 ## Contact
 
