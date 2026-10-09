@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href="https://www.shlab.org.cn/">Shanghai Artificial Intelligence Laboratory</a>. Researcher. Shanghai, China.
 profile:
   align: right
-  image: portrait-placeholder.svg
+  image: prof.jpeg
   image_circular: false
   more_info: >
     <p>Bowen Yan · 闫博闻</p>
