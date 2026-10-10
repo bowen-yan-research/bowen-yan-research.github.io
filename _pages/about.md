@@ -14,11 +14,11 @@ profile:
 selected_papers: true
 social: true
 announcements:
-  enabled: true
+  enabled: false
   scrollable: false
   limit: 5
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: false
   limit: 3
 ---

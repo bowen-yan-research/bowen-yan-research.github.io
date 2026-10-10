@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /projects/
-nav: true
+nav: false
 nav_order: 1
 description: From reasoning and recovery to sensing and soft robotic systems.
 ---
