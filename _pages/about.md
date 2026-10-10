@@ -23,10 +23,12 @@ latest_posts:
   limit: 3
 ---
 
-I am **Bowen Yan (闫博闻)**, a researcher at **Shanghai Artificial Intelligence Laboratory**. My research interests are **reasoning and agents, failure-driven self-improvement, and embodied AI**. I study how embodied agents can reason about the physical world, diagnose what went wrong, and turn that understanding into better actions.
+I am **Bowen Yan (闫博闻)**, a researcher at **Shanghai Artificial Intelligence Laboratory**. My research focuses on developing intelligent systems that can diagnose, verify, and correct their own failures, with applications in embodied AI, coding agents and training progress.
 
-I received my M.S. in Electrical Engineering (Robotics & Intelligent Systems) from **Tsinghua University** in 2024, where I was advised by **Prof. Xueqian Wang**, and my B.E. in Mechanical Engineering from **Hunan University** in 2020. I worked as a research assistant at Tsinghua University from 2024 to 2025 before joining Shanghai AI Lab.
+I received my M.S. in Electrical Engineering (Robotics & Intelligent Systems) from **Tsinghua University** in 2024, where I was advised by **Prof. Xueqian Wang**. I worked as a research assistant at Tsinghua University from 2024 to 2025 before joining Shanghai AI Lab.
 
-My work connects intelligent decision-making with hands-on robotic systems—from diagnosing manipulation failures and repairing physical constraints to building soft robots and optical sensing hardware. See my [research projects]({{ '/projects/' | relative_url }}) and [publications]({{ '/publications/' | relative_url }}) for more details.
+My research focuses on investigating general principles underlying error detection, attribution, and correction across different environments, including embodied manipulation, mathematical and code generation and model design. I am particularly interested in how verifiable evaluation can generate reliable attribution signals that enable iterative improvement in complex environments.
 
-Outside research, I enjoy science fiction, making music, and basketball. For research discussions and collaboration, please contact me at [y435088663@gmail.com](mailto:y435088663@gmail.com). My [CV]({{ '/cv/' | relative_url }}) is available online.
+Outside research, I enjoy science fiction and basketball. I am particularly fascinated by ideas in science fiction that explore the future of intelligence and civilization, such as Hari Seldon's psychohistory and the concept of the “electronic brain” in Isaac Asimov's Foundation. I also enjoy stories like Detroit: Become Human, especially the character Connor and its exploration of artificial intelligence, autonomy, and the relationship between humans and machines.
+
+For research discussions and collaboration, please contact me at [email]. [y435088663@gmail.com](mailto:y435088663@gmail.com). 
